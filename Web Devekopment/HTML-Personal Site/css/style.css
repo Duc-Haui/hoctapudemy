@@ -1,0 +1,21 @@
+body{
+    background-color: powderblue;
+}
+
+h1{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
+}
+h3>a{
+    color: #66BFBF;
+}
+
+hr{
+    border-style: dotted ;
+    border-top-style: none;
+    border-width:5px;
+    border-color :grey;
+    width:5%;
+}
